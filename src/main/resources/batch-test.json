@@ -1,0 +1,43 @@
+[
+  {
+    "isin": "123",
+    "quantity": 1,
+    "price": 1.2,
+    "customer": "foo"
+  },
+  {
+    "isin": "456",
+    "quantity": 2,
+    "price": 1.4,
+    "customer": "bar"
+  },
+
+  {
+    "isin": "4333",
+    "quantity": 2,
+    "price": 1.4,
+    "customer": "bar"
+  },
+
+  {
+    "isin": "4444",
+    "quantity": 234,
+    "price": 1.4,
+    "customer": "bar"
+  },
+
+  {
+    "isin": "1236",
+    "quantity": 235,
+    "price": 1.76,
+    "customer": "bar"
+  },
+
+
+  {
+    "isin": "4563",
+    "quantity": 123,
+    "price": 1.22,
+    "customer": "bar"
+  }
+]
